@@ -1,0 +1,23 @@
+.body{
+
+	padding: 30px;
+}
+
+.header {
+	background-size: cover;
+	background-color: yellow;
+	height: 20px;
+	width: 50%;
+}
+
+.header>a{
+	text-decoration: none;
+padding: 6px;
+font-family: sans-serif;
+font-size: 15px;
+font-weight: bold;
+}
+
+a:hover{
+	color: darkred;
+}
